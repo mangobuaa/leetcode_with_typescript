@@ -1,0 +1,22 @@
+{
+  "name": "leetcode_with_typescript",
+  "version": "1.0.0",
+  "description": "使用 TypeScript 练习 LeetCode 题目.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mangobuaa/leetcode_with_typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mangobuaa/leetcode_with_typescript/issues"
+  },
+  "homepage": "https://github.com/mangobuaa/leetcode_with_typescript#readme",
+  "dependencies": {
+    "vitest": "^3.2.4"
+  }
+}
